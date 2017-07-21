@@ -1,9 +1,7 @@
-# Indoor_navi swd
-
-## Refer to deep_learning_model.odt file
+# Indoor Navigation
 
 ## The trained model can be downloaded from link https://drive.google.com/open?id=0BwSmgJK4UW13UlZlRTh4elZxY2M 
-dwd
+
 This is the deep learning model which acts as a backend for the Android App to aid the Indoor Navigation System in the mobile.
 
 ## LOCATION NODE IDENTIFICATION IN INDOOR NAVIGATION
